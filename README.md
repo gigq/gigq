@@ -2,7 +2,7 @@
 
 Email: justin@gigq.com
 
-Mastodon: <a rel="me" href="https://gigq.com/@justin">@justin@gigq.com</a>
+Mastodon: <a rel="me" href="https://gigq.com/@justin">https://gigq.com/@justin</a>
 
 <!--
 **gigq/gigq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
