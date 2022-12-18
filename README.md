@@ -1,4 +1,8 @@
-### Hi there 👋
+###
+
+Email: justin@gigq.com
+
+Mastodon: <a rel="me" href="https://gigq.com/@justin">@justin@gigq.com</a>
 
 <!--
 **gigq/gigq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
